@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg
+venv/
+.env
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+
+# Tests
+test_output/
+temp/
